@@ -10,8 +10,8 @@ I love to build Lego and play soccer and Rocket League.
 
 I'm currently working on :fire:
 
-...An airport management game [Check it out](https://github.com/Seibaah/The-Fresh-Game-Jam-2021)
++An airport management game [Link](https://github.com/Seibaah/The-Fresh-Game-Jam-2021)
 
-...Ubisoft Game Labs 2021
++Ubisoft Game Labs 2021 [Coming soon]
   
 
