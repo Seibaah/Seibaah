@@ -6,7 +6,7 @@ I love to build Lego and play soccer and Rocket League.
 
 # Projects
 
-:construction: **I'm currently working on:
+:construction: **I'm currently working on:**
 
 + Unnamed airport management game - The Fresh Jam [Check out](https://github.com/Seibaah/The-Fresh-Game-Jam-2021)
 
