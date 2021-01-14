@@ -6,13 +6,13 @@ I love to build Lego and play soccer and Rocket League.
 
 # Projects
 
-:construction: **I'm currently working on:**
+## :construction: **I'm currently working on:**
 
 + Unnamed airport management game - The Fresh Jam [Check out](https://github.com/Seibaah/The-Fresh-Game-Jam-2021)
 
 + Unnamed game - Ubisoft Game Labs 2021 :soon:
 
-:heavy_check_mark: **Completed projects:
+## :heavy_check_mark: **Completed projects:**
 
 + Abitibi - GGJ 2020 (Platformer-PC) [Check out](https://github.com/Seibaah/GGJ_MTL2020)
 
@@ -24,11 +24,11 @@ I love to build Lego and play soccer and Rocket League.
 
 + HTN AI demo - COMP 521 (PC) :soon:
 
-:warning: **On hold:
+## :warning: **On hold:**
  
 + Shooting Stars - Weekly 101 Game Jam (Endless runner-PC) [Check out](https://github.com/Seibaah/Weekly-Game-Jam-Shooting-stars)
 
-:question: **Incoming:
+## :question: **Incoming:**
 
 + Excavator game (mini terraria clone)
 
