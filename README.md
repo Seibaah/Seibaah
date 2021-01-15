@@ -2,7 +2,7 @@
 
 I'm a simple man trying to make my way through the universe... and do some cool CS projects along the way. 
 
-I love to build Lego and play soccer and Rocket League.
+I love to build Lego, play soccer and Rocket League.
 
 # Projects
 
@@ -24,7 +24,7 @@ I love to build Lego and play soccer and Rocket League.
 
 + HTN AI demo - COMP 521 (PC) :soon:
 
-## :warning: **On hold:**
+## :warning: **To be completed:**
  
 + Shooting Stars - Weekly 101 Game Jam (Endless runner-PC) [Check out](https://github.com/Seibaah/Weekly-Game-Jam-Shooting-stars)
 
