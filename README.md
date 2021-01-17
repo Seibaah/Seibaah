@@ -20,9 +20,9 @@ I love to build Lego, play soccer and Rocket League.
 
 + I'm Home! - Summer Slow Jams 2020 (3-D Horror Exploration-PC) [Check out](https://github.com/Seibaah/Summer-Slow-Jams-August-2020)
 
-+ Pathfinding Demo - (Travel Routing Systems-PC) [Check out](https://github.com/Seibaah/Pathfinding-Demo)
++ A* Pathfinding - (Travel Routing Systems Demo-PC) [Check out](https://github.com/Seibaah/Pathfinding-Demo)
 
-+ HTN AI Demo - (Automated Planning and Scheduling-PC) [Check out](https://github.com/Seibaah/HTN-AI-Demo)
++ HTN AI - (Automated Planning and Scheduling Demo-PC) [Check out](https://github.com/Seibaah/HTN-AI-Demo)
 
 ## :warning: **To be completed:**
  
