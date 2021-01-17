@@ -2,7 +2,7 @@
 
 I'm a simple man trying to make my way through the universe... and do some cool CS projects along the way. 
 
-I love to build Lego, play soccer and Rocket League.
+I love Lego, soccer and Rocket League.
 
 # Projects
 
