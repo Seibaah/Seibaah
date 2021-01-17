@@ -26,7 +26,7 @@ I love to build Lego, play soccer and Rocket League.
 
 ## :warning: **To be completed:**
  
-+ Shooting Stars - Weekly 101 Game Jam (Endless Runner-PC) [Check out](https://github.com/Seibaah/Weekly-Game-Jam-Shooting-stars)
++ Shooting Stars - Weekly Game Jam (Endless Runner-PC) [Check out](https://github.com/Seibaah/Weekly-Game-Jam-Shooting-stars)
 
 ## :question: **Incoming:**
 
