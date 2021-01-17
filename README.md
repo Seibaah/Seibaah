@@ -14,7 +14,7 @@ I love to build Lego, play soccer and Rocket League.
 
 ## :heavy_check_mark: **Completed projects:**
 
-+ Abitibi - GGJ 2020 (Platformer-PC) [Check out](https://github.com/Seibaah/GGJ_MTL2020)
++ Abitibi - Global Game Jam 2020 (Platformer-PC) [Check out](https://github.com/Seibaah/GGJ_MTL2020)
 
 + Paleolithic - Simulator Seminar 2020 (2-D Turn Based Survival-PC) [Check out](https://github.com/Seibaah/SimulatorGame)
 
