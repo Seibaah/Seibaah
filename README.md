@@ -8,25 +8,25 @@ I love to build Lego, play soccer and Rocket League.
 
 ## :construction: **I'm currently working on:**
 
-+ Unnamed airport management game - The Fresh Jam [Check out](https://github.com/Seibaah/The-Fresh-Game-Jam-2021)
++ Unnamed airport management game - The Fresh Jam (Management Simulation-PC) [Check out](https://github.com/Seibaah/The-Fresh-Game-Jam-2021)
 
-+ Unnamed game - Ubisoft Game Labs 2021 :soon:
++ Unnamed game - Ubisoft Game Labs 2021 (PC) :soon:
 
 ## :heavy_check_mark: **Completed projects:**
 
 + Abitibi - GGJ 2020 (Platformer-PC) [Check out](https://github.com/Seibaah/GGJ_MTL2020)
 
-+ Survival Game - Simulator Seminar 2020 (Survival-PC) [Check out](https://github.com/Seibaah/SimulatorGame)
++ Paleolithic - Simulator Seminar 2020 (2-D Turn Based Survival-PC) [Check out](https://github.com/Seibaah/SimulatorGame)
 
-+ I'm home! - Summer Slow Jams 2020 (Horror-PC) [Check out](https://github.com/Seibaah/Summer-Slow-Jams-August-2020)
++ I'm Home! - Summer Slow Jams 2020 (3-D Horror Exploration-PC) [Check out](https://github.com/Seibaah/Summer-Slow-Jams-August-2020)
 
-+ Pathfinding demo - COMP 521 (PC) [Check out](https://github.com/Seibaah/McGill-COMP/tree/main/COMP521%20FALL%202020/A3)
++ Pathfinding Demo - (Travel Routing Systems-PC) [Check out](https://github.com/Seibaah/Pathfinding-Demo)
 
-+ HTN AI demo - COMP 521 (PC) :soon:
++ HTN AI Demo - (Automated Planning and Scheduling-PC) [Check out](https://github.com/Seibaah/HTN-AI-Demo)
 
 ## :warning: **To be completed:**
  
-+ Shooting Stars - Weekly 101 Game Jam (Endless runner-PC) [Check out](https://github.com/Seibaah/Weekly-Game-Jam-Shooting-stars)
++ Shooting Stars - Weekly 101 Game Jam (Endless Runner-PC) [Check out](https://github.com/Seibaah/Weekly-Game-Jam-Shooting-stars)
 
 ## :question: **Incoming:**
 
