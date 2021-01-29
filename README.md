@@ -10,19 +10,19 @@ I love Lego, soccer and Rocket League.
 
 + Unnamed game - Ubisoft Game Labs 2021 (PC) :soon:
 
-## :heavy_check_mark: **Completed projects:**
+## :heavy_check_mark: **Completed projects:** (from newest to oldest)
 
-+ Abitibi - Global Game Jam 2020 (Platformer-PC) [Check out](https://github.com/Seibaah/GGJ_MTL2020)
-
-+ Paleolithic - Simulator Seminar 2020 (2-D Turn Based Survival-PC) [Check out](https://github.com/Seibaah/SimulatorGame)
-
-+ I'm Home! - Summer Slow Jams 2020 (3-D Horror Exploration-PC) [Check out](https://github.com/Seibaah/Summer-Slow-Jams-August-2020)
-
-+ A* Pathfinding - (Travel Routing Systems Demo-PC) [Check out](https://github.com/Seibaah/Pathfinding-Demo)
++ Cyperplane2077 - The Fresh Jam (Management Simulation-PC) [Check out](https://github.com/Seibaah/The-Fresh-Game-Jam-2021)
 
 + HTN AI - (Automated Planning and Scheduling Demo-PC) [Check out](https://github.com/Seibaah/HTN-AI-Demo)
 
-+ Cyperplane2077 - The Fresh Jam (Management Simulation-PC) [Check out](https://github.com/Seibaah/The-Fresh-Game-Jam-2021)
++ A* Pathfinding - (Travel Routing Systems Demo-PC) [Check out](https://github.com/Seibaah/Pathfinding-Demo)
+
++ I'm Home! - Summer Slow Jams 2020 (3-D Horror Exploration-PC) [Check out](https://github.com/Seibaah/Summer-Slow-Jams-August-2020)
+
++ Paleolithic - Simulator Seminar 2020 (2-D Turn Based Survival-PC) [Check out](https://github.com/Seibaah/SimulatorGame)
+
++ Abitibi - Global Game Jam 2020 (Platformer-PC) [Check out](https://github.com/Seibaah/GGJ_MTL2020)
 
 ## :warning: **To be completed:**
  
