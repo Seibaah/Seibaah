@@ -12,21 +12,21 @@ I love Lego, soccer and Rocket League.
 
 ## :heavy_check_mark: **Completed projects:** (from newest to oldest)
 
-+ Cyperplane2077 - The Fresh Jam (Management Simulation-PC) [Check out](https://github.com/Seibaah/The-Fresh-Game-Jam-2021)
++ Cyperplane2077 - The Fresh Jam (3-D Management Simulation-PC) [Check out](https://github.com/Seibaah/The-Fresh-Game-Jam-2021)
 
-+ HTN AI - (Automated Planning and Scheduling Demo-PC) [Check out](https://github.com/Seibaah/HTN-AI-Demo)
++ HTN AI - (3-D Automated Planning and Scheduling Demo-PC) [Check out](https://github.com/Seibaah/HTN-AI-Demo)
 
-+ A* Pathfinding - (Travel Routing Systems Demo-PC) [Check out](https://github.com/Seibaah/Pathfinding-Demo)
++ A* Pathfinding - (3-D Travel Routing Systems Demo-PC) [Check out](https://github.com/Seibaah/Pathfinding-Demo)
 
 + I'm Home! - Summer Slow Jams 2020 (3-D Horror Exploration-PC) [Check out](https://github.com/Seibaah/Summer-Slow-Jams-August-2020)
 
 + Paleolithic - Simulator Seminar 2020 (2-D Turn Based Survival-PC) [Check out](https://github.com/Seibaah/SimulatorGame)
 
-+ Abitibi - Global Game Jam 2020 (Platformer-PC) [Check out](https://github.com/Seibaah/GGJ_MTL2020)
++ Abitibi - Global Game Jam 2020 (2-D Platformer-PC) [Check out](https://github.com/Seibaah/GGJ_MTL2020)
 
 ## :warning: **To be completed:**
  
-+ Shooting Stars - Weekly Game Jam (Endless Runner-PC) [Check out](https://github.com/Seibaah/Weekly-Game-Jam-Shooting-stars)
++ Shooting Stars - Weekly Game Jam (2-D Endless Runner-PC) [Check out](https://github.com/Seibaah/Weekly-Game-Jam-Shooting-stars)
 
 ## :question: **Incoming:**
 
