@@ -8,8 +8,6 @@ I love Lego, soccer and Rocket League.
 
 ## :construction: **I'm currently working on:**
 
-+ Cyperplane2077 - The Fresh Jam (Management Simulation-PC) [Check out](https://github.com/Seibaah/The-Fresh-Game-Jam-2021)
-
 + Unnamed game - Ubisoft Game Labs 2021 (PC) :soon:
 
 ## :heavy_check_mark: **Completed projects:**
@@ -23,6 +21,8 @@ I love Lego, soccer and Rocket League.
 + A* Pathfinding - (Travel Routing Systems Demo-PC) [Check out](https://github.com/Seibaah/Pathfinding-Demo)
 
 + HTN AI - (Automated Planning and Scheduling Demo-PC) [Check out](https://github.com/Seibaah/HTN-AI-Demo)
+
++ Cyperplane2077 - The Fresh Jam (Management Simulation-PC) [Check out](https://github.com/Seibaah/The-Fresh-Game-Jam-2021)
 
 ## :warning: **To be completed:**
  
