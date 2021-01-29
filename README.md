@@ -8,7 +8,7 @@ I love Lego, soccer and Rocket League.
 
 ## :construction: **I'm currently working on:**
 
-+ Unnamed airport management game - The Fresh Jam (Management Simulation-PC) [Check out](https://github.com/Seibaah/The-Fresh-Game-Jam-2021)
++ Cyperplane2077 - The Fresh Jam (Management Simulation-PC) [Check out](https://github.com/Seibaah/The-Fresh-Game-Jam-2021)
 
 + Unnamed game - Ubisoft Game Labs 2021 (PC) :soon:
 
