@@ -9,6 +9,7 @@ I love Lego, soccer and Rocket League.
 ## :construction: **I'm currently working on:**
 
 + Besunder - Ubisoft Game Labs 2021 (PC) [Check out](https://github.com/UGL-McGill-2021/lionheart)
+![Game Footage](https://media.giphy.com/media/SywI1QgvQgC0T78yFi/giphy.gif)
 
 ## :heavy_check_mark: **Completed projects:** (from newest to oldest)
 
