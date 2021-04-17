@@ -8,7 +8,7 @@ I love Lego, soccer and Rocket League.
 
 ## :construction: **I'm currently working on:**
 
-+ Unnamed game - Ubisoft Game Labs 2021 (PC) :soon:
++ Besunder - Ubisoft Game Labs 2021 (PC) [Check out](https://github.com/UGL-McGill-2021/lionheart)
 
 ## :heavy_check_mark: **Completed projects:** (from newest to oldest)
 
@@ -17,6 +17,8 @@ I love Lego, soccer and Rocket League.
 + HTN AI - (3-D Automated Planning and Scheduling Demo-PC) [Check out](https://github.com/Seibaah/HTN-AI-Demo)
 
 + A* Pathfinding - (3-D Travel Routing Systems Demo-PC) [Check out](https://github.com/Seibaah/Pathfinding-Demo)
+
++ Shooting Gallery - (2-D Physics Simulation-PC) [Check out](https://github.com/Seibaah/Cannon-Shooting-Range)
 
 + I'm Home! - Summer Slow Jams 2020 (3-D Horror Exploration-PC) [Check out](https://github.com/Seibaah/Summer-Slow-Jams-August-2020)
 
