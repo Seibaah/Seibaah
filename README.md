@@ -30,14 +30,6 @@ I love Lego, soccer and Rocket League.
 ## :warning: **To be completed:**
  
 + Shooting Stars - Weekly Game Jam (2-D Endless Runner-PC) [Check out](https://github.com/Seibaah/Weekly-Game-Jam-Shooting-stars)
-
-## :question: **Incoming:**
-
-+ Excavator game (mini terraria clone)
-
-+ Chess engine
-
-+ *and more...*
  
 
 
