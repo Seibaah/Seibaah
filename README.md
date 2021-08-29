@@ -6,7 +6,7 @@ My name is Denis, I am a computer science student who has a passion for game dev
 
 ## :construction: **I'm currently working on:**
 
-I'm just 🧠⛈️ these days...
+I'm just 🧠⛈️ these days.
 
 ## :heavy_check_mark: **Completed projects:** (from newest to oldest)
 
