@@ -1,16 +1,16 @@
 ![](https://media.giphy.com/media/Nx0rz3jtxtEre/giphy.gif)
 
-I'm a simple man trying to make my way through the universe...
-
-I love Lego, soccer and Rocket League.
+My name is Denis, I am a computer science student who has a passion for game development. Here are my main projects and if you dig through my repos you can find additional coding experiments and exercises. Have fun! 😄
 
 # Projects
 
 ## :construction: **I'm currently working on:**
 
+I'm just 🧠⛈️ these days...
+
 ## :heavy_check_mark: **Completed projects:** (from newest to oldest)
 
-|Besunder - Ubisoft Game Labs 2021 [Repo](https://github.com/UGL-McGill-2021/lionheart) |Cyperplane 2077 - The Fresh Jam [Repo](https://github.com/Seibaah/The-Fresh-Game-Jam-2021)|
+|Besunder - Ubisoft Game Labs 2021 [Repo](https://github.com/UGL-McGill-2021/lionheart) |Cyperplane 2077 - The Fresh Jam 2021 [Repo](https://github.com/Seibaah/The-Fresh-Game-Jam-2021)|
 :-----------------------------------:|:-----------------------------------:
 ![](https://github.com/UGL-McGill-2021/lionheart/blob/main/Assets/Resources/Media/BesunderFootage.gif) | ![](https://github.com/Seibaah/The-Fresh-Game-Jam-2021/blob/main/cyberplane.gif)
 HTN AI - (3-D Automated Planning and Scheduling) [Repo](https://github.com/Seibaah/HTN-AI-Demo) | A* Pathfinding - (3-D Travel Routing Systems) [Repo](https://github.com/Seibaah/Pathfinding-Demo)
