@@ -1,12 +1,12 @@
 ![](https://media.giphy.com/media/Nx0rz3jtxtEre/giphy.gif)
 
-My name is Denis, I am a computer science student who has a passion for game development. Here are my main projects and if you dig through my repos you can find additional coding experiments and exercises. Have fun! 😄
+My name is Denis, and I recently graduated from McGill University with a degree in Computer Science. I am a curious person with a keen interest in physics, graphics, and gameplay programming. 
 
 # Projects
 
 ## :construction: **I'm currently working on:**
 
-I'm just 🧠⛈️ these days.
+I'm working on a mobile 🎱 game. More details coming soon 👀.
 
 ## :heavy_check_mark: **Completed projects:** (from newest to oldest)
 
