@@ -6,7 +6,7 @@ My name is Denis, and I recently graduated from McGill University with a degree 
 
 ## :construction: **I'm currently working on:**
 
-I'm working on a mobile 🎱 game. More details coming soon 👀.
+Exciting stuff. More details coming soon 👀.
 
 ## :heavy_check_mark: **Completed projects:** (from newest to oldest)
 
